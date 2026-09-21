@@ -1,0 +1,14 @@
+[
+    {
+        "identificacion": "0712345678",
+        "nombre": "Leython Hidalgo",
+        "usuario": "leython",
+        "contrasena": "rest2026"
+    },
+    {
+        "identificacion": "0700000000",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contrasena": "admin123"
+    }
+]
